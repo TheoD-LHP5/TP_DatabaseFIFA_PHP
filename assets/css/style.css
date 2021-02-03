@@ -1,0 +1,35 @@
+.imgPlayer{
+    width: 100px;
+}
+
+.imgPlayerModal{
+    width: 400px;
+}
+
+.table{
+    text-align: center;
+    border: 2px solid gray;
+    background-color: rgb(245, 245, 245, 0.3);
+}
+
+body{
+    /* background-color: #858A84; */
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(../img/soccer.jpg);
+}
+
+.titleTable{
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+td{
+    color: whitesmoke;
+    font-size: 30px;
+}
